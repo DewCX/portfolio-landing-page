@@ -1,0 +1,249 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: #212529;
+}
+
+
+/* Navbar */
+.nav-link{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #FFF;
+}
+.nav-link:hover{
+    color: #FFB742;
+}
+.active{
+    color: #FFB742 !important;
+}
+.btn-hire{
+    background-color: #FFB742;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.btn-hire:hover{
+    background-color: #7c7c7c;
+}
+/* Navbar end*/
+
+/* Card1 */
+.text-hi{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 51px; 
+    color: #FFF;
+}
+.text-name{
+    color: #FFB742;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 51px;
+}
+.avatar-img{
+    text-align: center;
+    width: 230px;
+    height: 230px;
+}
+.job-title{
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 91px;
+    color: #FFF;
+}
+.card-1-p{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 51px;
+}
+/* Card1 ends */
+
+/* Information */
+.bg-information{
+    background-color: #292B2E;
+    color: #FFF;
+}
+.info-header{
+    color: #FFB742;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.info-text{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 31px;
+}
+
+.fa-angle-right:hover{
+    color: #FFB742;
+}
+
+/* Information ends*/
+
+/* About Me */
+.bg-aboutme{
+    background-color: #212529;
+}
+.about-me-header{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.about-me-text{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.who-i-am{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #FFB742;
+    border: 1px solid #292B2E;
+    background-color: #292B2E;
+}
+/* About me ends */
+
+/* Skills */
+.skills-header{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+}
+.skills-text{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn-skills{
+    background-color: #FFB742;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+}
+/* Skills end*/
+
+/* Features */
+
+.bg-logos{
+    background-color: #383E45;
+}
+
+.col>.bg-logos>img{
+    height: 50px;
+}
+
+
+.features-link{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #FFF;
+    padding: 10px;
+}
+.features-link:hover{
+    background-color: #FFB742;
+    color: #000;
+}
+.features-active-link{
+    background-color: #FFB742;
+    color: #000;
+}
+
+/* Features  ends*/
+
+/* Testimonials */
+.comment{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+}
+.client-name{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+}
+.client-job{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 34px;
+}
+
+/* Testimonial card */
+.btn-testimonial-card{
+    background-color: #FFB742;
+}
+.comment-card-header{
+    font-family: Inter;
+    font-size: 35px;
+    font-weight: 900;
+    line-height: 53px;
+}
+.comment-card-text{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.comment-card-btn{
+    border: 2px solid rgba(0, 0, 0, 1);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.comment-card-btn:hover{
+    background-color: #7c7c7c;
+}
+
+/* Testimonial card ends */
+/* Testimonials ends*/
+
+/* Footer */
+.testimonial-card{
+    position: relative;
+    margin-top: 3rem;
+    margin-bottom: 8rem;
+}
+.footer-card{
+    position: absolute;
+    border-radius: 10px;
+}
+.footer-link{
+    color: rgba(123, 123, 123, 1);
+}
+.footer-bg{
+    background-color: #1C1C1C;
+}
+
+.btn-newsletter{
+    background-color: #212529 !important;
+    color: #7c7c7c !important;
+}
+.btn-send:hover{
+    color: #7c7c7c !important;
+}
+/* Footer ends*/
+

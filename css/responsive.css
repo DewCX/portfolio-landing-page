@@ -1,0 +1,27 @@
+
+
+/*  Small devices (landscape phones, 576px and down) */
+@media (max-width: 576px) { }
+
+ /* Medium devices (tablets, 768px and down) */
+@media (max-width: 768px) {  }
+
+/*  Large devices (desktops, 992px and down) */
+@media (max-width: 992px) { 
+
+    .btn-hire{
+        display: flex;
+        justify-content: end !important;
+    }
+    .footer-card{
+        position: absolute;
+        top: 95%;
+        padding: 1rem !important;
+    }
+ }
+
+ /* X-Large devices (large desktops, 1200px and down) */
+@media (max-width: 1200px) {  }
+
+ /* XX-Large devices (larger desktops, 1400px and down) */
+@media (max-width: 1400px) {  }
